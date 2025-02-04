@@ -1,5 +1,5 @@
 import HeaderName from "./header";
-import NavBar from "./navbar";
+import BodyDown from "./body";
 import NavBarTop from "./navigationBar";
 
 function TemporaryName() {
@@ -7,7 +7,7 @@ function TemporaryName() {
     <>
       <NavBarTop />
       <HeaderName />
-      <NavBar />
+      <BodyDown />
     </>
   );
 }
